@@ -10,7 +10,7 @@ var segundo=1;
 var temporizador=setInterval(segundero,1000);
 
 function segundero(){
-	document.getElementById("titulo").innerHTML = segundo;
+	document.getElementById("titulo").innerHTML = segundo +" s";
 	segundo++;
 }
 function detener()
