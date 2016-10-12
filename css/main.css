@@ -1,0 +1,13 @@
+.fondo{
+	background-image: url(https://lamadrigueradealicia.files.wordpress.com/2013/11/conejo-blanco.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 590px;
+}
+h2{
+	font-family: 'Mountains of Christmas', cursive;
+	color: #fff;
+	margin: 10% 0;
+	font-size: 55px;
+}
